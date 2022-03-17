@@ -1,0 +1,1 @@
+## alx-study readme on c nested loops and functions.
